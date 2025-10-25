@@ -1,0 +1,20 @@
+.nva__container {
+  display: flex;
+  justify-content: center;
+  background-color: #3b5d50;
+  padding: 1.8rem;
+}
+.nav__logo {
+  font-size: 1.4rem;
+  color: #fff;
+}
+.nav__logo--text {
+  color: #fff;
+  text-decoration: none;
+}
+.nav__menu {
+  display: none;
+}
+.nav__user {
+  display: none;
+}
